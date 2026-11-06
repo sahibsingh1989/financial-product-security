@@ -1,0 +1,25 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+.env.*
+!.env.example
+.coverage
+htmlcov/
+.runtime/
+.ruff_cache/
+.mypy_cache/
+.idea/
+.vscode/
+*.pem
+*.key
+*.p12
+*.pfx
+*.log
+*.db
+*.sqlite*
+*.sarif
+private/
+attachments/
+Pasted text.txt
